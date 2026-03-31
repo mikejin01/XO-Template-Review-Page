@@ -1,0 +1,5 @@
+{
+  "name": "Review Generation Page",
+  "description": "A simple, mobile-friendly page to generate reviews from local clients.",
+  "requestFramePermissions": []
+}
